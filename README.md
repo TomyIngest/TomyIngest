@@ -6,6 +6,7 @@
 |---|---|---|
 | **PL-300**<br>Power BI Data Analyst Associate | <a href="https://learn.microsoft.com/en-us/users/16726426/credentials/c12ecc0abdce839b?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90"></a> | <a href="https://learn.microsoft.com/en-us/users/16726426/credentials/c12ecc0abdce839b?ref=https%3A%2F%2Fwww.linkedin.com%2F">View Certificate</a> |
 | **DP-600**<br>Fabric Analytics Engineer Associate | <a href="https://learn.microsoft.com/en-us/users/16726426/credentials/3c7837151a63051b?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90"></a> | <a href="https://learn.microsoft.com/en-us/users/16726426/credentials/3c7837151a63051b?ref=https%3A%2F%2Fwww.linkedin.com%2F">View Certificate</a> |
+| **DP-700**<br>Fabric Data Engineer Associate | <a href="YOUR_DP700_BADGE_LINK"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90"></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-us/16726426/C58A0CC6F37BAAFE?sharingId=E99D790FAA2B4C88">View Certificate</a> |
 
 
 ### Platforms & Tools
