@@ -10,11 +10,11 @@
 
 
 ### Platforms & Tools
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-000000?style=for-the-badge&logo=microsoftfabric&logoColor=white)
+![Fabric](https://img.shields.io/badge/Microsoft%20Fabric-2BB673?style=for-the-badge&logo=microsoftfabric&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 
 **Languages**
 - SQL
