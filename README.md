@@ -1,4 +1,4 @@
-## Tomas Sarmir — Data Analyst & BI Developer | Evolving into Data Engineering
+## Tomas Sarmir — Data Analyst, BI Developer & Data Engineering
 
 ## 🏅 Certifications
 
