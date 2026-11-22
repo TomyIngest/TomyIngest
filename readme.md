@@ -1,5 +1,3 @@
-## Tomas Sarmir: Data Analyst, BI Developer & Data Engineer
-
 ## Tomas Sarmir: Data & Analytics Engineer
 
 ## 🏅 Certifications
