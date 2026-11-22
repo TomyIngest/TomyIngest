@@ -1,12 +1,33 @@
 ## Tomas Sarmir: Data Analyst, BI Developer & Data Engineer
 
+## Tomas Sarmir: Data & Analytics Engineer
+
 ## 🏅 Certifications
 
+<table>
+<tr>
+<td valign="top">
+
+### Microsoft
+
 | Certification | Badge | Details |
-|---|---|---|
+|---|:---:|---|
 | **PL-300**<br>Power BI Data Analyst Associate | <a href="https://learn.microsoft.com/en-us/users/16726426/credentials/c12ecc0abdce839b?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90"></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-us/16726426/3C7837151A63051B?sharingId=E99D790FAA2B4C88">View Certificate</a> |
 | **DP-600**<br>Fabric Analytics Engineer Associate | <a href="https://learn.microsoft.com/en-us/users/16726426/credentials/3c7837151a63051b?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90"></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-us/16726426/C12ECC0ABDCE839B?sharingId=E99D790FAA2B4C88">View Certificate</a> |
-| **DP-700**<br>Fabric Data Engineer Associate | <a href="YOUR_DP700_BADGE_LINK"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90"></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-us/16726426/C58A0CC6F37BAAFE?sharingId=E99D790FAA2B4C88">View Certificate</a> |
+| **DP-700**<br>Fabric Data Engineer Associate | <a href="https://learn.microsoft.com/en-us/users/16726426/credentials/c58a0cc6f37baafe"><img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="90"></a> | <a href="https://learn.microsoft.com/api/credentials/share/en-us/16726426/C58A0CC6F37BAAFE?sharingId=E99D790FAA2B4C88">View Certificate</a> |
+
+</td>
+<td valign="top">
+
+### Databricks
+
+| Certification | Badge | Details |
+|---|:---:|---|
+| **Data Engineer**<br>Associate | <a href="https://credentials.databricks.com/672ffb53-591d-41b5-aa5e-3bd20b7af576"><img src="https://raw.githubusercontent.com/TomyIngest/TomyIngest/main/badges/databricks-data-engineer-associate.png" width="70"></a> | <a href="https://credentials.databricks.com/672ffb53-591d-41b5-aa5e-3bd20b7af576">View Certificate</a> |
+
+</td>
+</tr>
+</table>
 
 
 ### Platforms & Tools
